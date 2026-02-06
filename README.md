@@ -29,7 +29,7 @@ If you fork and redistribute CodeJudge, please include the following attribution
 > Based on CodeJudge by Fabian Roland (naibaf-1)
 
 ## Contact
-You can contact me through GitHub—open an [issue](../../issues) or submit a pull request.
+You can contact me through GitHub—open an [issue](../../../issues) or submit a pull request.
 
 ## Disclaimer
 This app was developed to help computer science students preparing for their exams written on paper or at least without helpers like syntax highlighting. This 
