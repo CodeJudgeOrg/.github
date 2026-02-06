@@ -9,8 +9,8 @@ CodeJudge is designed to help computer science students practice and prepare for
 In order to install CodeJudge, please follow the instructions of each repository by this organisation.
 
 ## Contribution Guidelines
-Everyone is welcome to participate in and adapt this project. All contributions and usage are governed by the [Apache 2.0 License](LICENSE).
-Please see also [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+Everyone is welcome to participate in and adapt this project. All contributions and usage are governed by the [Apache 2.0 License](/profile/LICENSE).
+Please see also [CONTRIBUTING.md](/profile/CONTRIBUTING.md) for guidelines.
 
 ### Getting Started
 Please follow the instructions by the repositories of this organisation.
@@ -21,7 +21,7 @@ This project uses the following frameworks and programming languages:
 - C
 
 ### Code Of Conduct
-Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md).  
+Please note that this project adheres to a [Code of Conduct](/profile/CODE_OF_CONDUCT.md).  
 By participating, you are expected to uphold this code.
 
 ### Attribution
