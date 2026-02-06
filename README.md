@@ -13,7 +13,12 @@ Everyone is welcome to participate in and adapt this project. All contributions 
 Please see also [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ### Getting Started
-Please follow the instruction by the repositories of this organisation.
+Please follow the instructions by the repositories of this organisation.
+
+### Tech Stack
+This project uses the following frameworks and programming languages:
+- Flutter/Dart
+- C
 
 ### Code Of Conduct
 Please note that this project adheres to a [Code of Conduct](CODE_OF_CONDUCT.md).  
